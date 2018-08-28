@@ -1,0 +1,59 @@
+{
+  "Property":{
+    "Patel Shops":[{
+      "Unit":"A1",
+      "Tenant":"Paul Kurgat",
+      "Amount":"3000",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"A2",
+      "Tenant":"Sally Mbilu",
+      "Amount":"6000",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"A3",
+      "Tenant":"Ben Okello",
+      "Amount":"4500",
+      "Contact":"0705173273"
+    }],
+    
+    "Njuguna Flats":[{
+      "Unit":"B1",
+      "Tenant":"Lucy Maitho",
+      "Amount":"5500",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"B2",
+      "Tenant":"John Lewis",
+      "Amount":"18000",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"B3",
+      "Tenant":"James Low",
+      "Amount":"10000",
+      "Contact":"0705173273"
+    }],
+     "Best Apartments Flats":[{
+      "Unit":"C1",
+      "Tenant":"Levin Shah",
+      "Amount":"5500",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"C2",
+      "Tenant":"Anne Annete",
+      "Amount":"18000",
+      "Contact":"0705173273"
+    },
+    {
+      "Unit":"C3",
+      "Tenant":"Philip Kiwi",
+      "Amount":"4500",
+      "Contact":"0705173273"
+    }]
+  }
+}
